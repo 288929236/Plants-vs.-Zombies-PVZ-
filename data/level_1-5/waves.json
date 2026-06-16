@@ -1,0 +1,89 @@
+{
+  "waves": [
+    {
+      "wave": 1,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 3,
+          "time": 3.0
+        },
+        {
+          "type": "zombie",
+          "row": 5,
+          "time": 5.0
+        },
+        {
+          "type": "conehead",
+          "row": 2,
+          "time": 8.0
+        },
+        {
+          "type": "zombie",
+          "row": 4,
+          "time": 11.0
+        }
+      ]
+    },
+    {
+      "wave": 2,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 1,
+          "time": 16.0
+        },
+        {
+          "type": "conehead",
+          "row": 3,
+          "time": 18.0
+        },
+        {
+          "type": "zombie",
+          "row": 5,
+          "time": 21.0
+        },
+        {
+          "type": "buckethead",
+          "row": 2,
+          "time": 24.0
+        },
+        {
+          "type": "zombie",
+          "row": 4,
+          "time": 26.0
+        }
+      ]
+    },
+    {
+      "wave": 3,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 2,
+          "time": 32.0
+        },
+        {
+          "type": "buckethead",
+          "row": 1,
+          "time": 34.0
+        },
+        {
+          "type": "conehead",
+          "row": 3,
+          "time": 37.0
+        },
+        {
+          "type": "conehead",
+          "row": 5,
+          "time": 40.0
+        },
+        {
+          "type": "zombie",
+          "row": 4,
+          "time": 42.0
+        }
+      ]
+    }
+  ]
+}

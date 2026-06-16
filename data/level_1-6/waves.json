@@ -1,0 +1,109 @@
+{
+  "waves": [
+    {
+      "wave": 1,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 2,
+          "time": 2.0
+        },
+        {
+          "type": "zombie",
+          "row": 4,
+          "time": 4.0
+        },
+        {
+          "type": "conehead",
+          "row": 1,
+          "time": 7.0
+        }
+      ]
+    },
+    {
+      "wave": 2,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 3,
+          "time": 12.0
+        },
+        {
+          "type": "zombie",
+          "row": 5,
+          "time": 14.0
+        },
+        {
+          "type": "conehead",
+          "row": 2,
+          "time": 17.0
+        },
+        {
+          "type": "zombie",
+          "row": 1,
+          "time": 20.0
+        }
+      ]
+    },
+    {
+      "wave": 3,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 4,
+          "time": 25.0
+        },
+        {
+          "type": "buckethead",
+          "row": 1,
+          "time": 27.0
+        },
+        {
+          "type": "conehead",
+          "row": 3,
+          "time": 30.0
+        },
+        {
+          "type": "zombie",
+          "row": 2,
+          "time": 33.0
+        },
+        {
+          "type": "conehead",
+          "row": 5,
+          "time": 36.0
+        }
+      ]
+    },
+    {
+      "wave": 4,
+      "zombies": [
+        {
+          "type": "zombie",
+          "row": 3,
+          "time": 42.0
+        },
+        {
+          "type": "buckethead",
+          "row": 1,
+          "time": 44.0
+        },
+        {
+          "type": "conehead",
+          "row": 2,
+          "time": 47.0
+        },
+        {
+          "type": "zombie",
+          "row": 4,
+          "time": 50.0
+        },
+        {
+          "type": "buckethead",
+          "row": 5,
+          "time": 52.0
+        }
+      ]
+    }
+  ]
+}

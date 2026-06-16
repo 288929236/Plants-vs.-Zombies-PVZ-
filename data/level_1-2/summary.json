@@ -1,0 +1,12 @@
+{
+  "chapter": 1,
+  "stage": 2,
+  "name": "白天草地 - 第2关",
+  "map": "day",
+  "total_zombies": 7,
+  "total_waves": 2,
+  "count": {
+    "zombie": 7
+  },
+  "total_time": 23
+}

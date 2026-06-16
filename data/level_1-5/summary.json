@@ -1,0 +1,14 @@
+{
+  "chapter": 1,
+  "stage": 5,
+  "name": "白天草地 - 第5关",
+  "map": "day",
+  "total_zombies": 14,
+  "total_waves": 3,
+  "count": {
+    "zombie": 8,
+    "conehead": 4,
+    "buckethead": 2
+  },
+  "total_time": 43
+}

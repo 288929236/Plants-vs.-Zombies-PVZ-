@@ -1,0 +1,13 @@
+{
+  "chapter": 1,
+  "stage": 4,
+  "name": "白天草地 - 第4关",
+  "map": "day",
+  "total_zombies": 11,
+  "total_waves": 3,
+  "count": {
+    "zombie": 7,
+    "conehead": 4
+  },
+  "total_time": 33
+}

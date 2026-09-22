@@ -1,0 +1,13 @@
+{
+  "chapter": 1,
+  "stage": 3,
+  "name": "白天草地 - 第3关",
+  "map": "day",
+  "total_zombies": 9,
+  "total_waves": 3,
+  "count": {
+    "zombie": 6,
+    "conehead": 3
+  },
+  "total_time": 32
+}

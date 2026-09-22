@@ -1,0 +1,14 @@
+{
+  "chapter": 1,
+  "stage": 6,
+  "name": "白天草地 - 第6关",
+  "map": "day",
+  "total_zombies": 17,
+  "total_waves": 4,
+  "count": {
+    "zombie": 9,
+    "conehead": 5,
+    "buckethead": 3
+  },
+  "total_time": 53
+}
